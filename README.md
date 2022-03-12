@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishwajeet009
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cp and webd
-- 💞️ I’m looking to collaborate on cp and webd related stuffs
+- 🌱 I’m currently learning data structures, machine learning and web development
+- 💞️ I’m looking to collaborate on DS-Algo, ML and WEBD related stuffs
 - 📫 How to reach me ...2019ucs0088@iitjammu.ac.in
 
 <!---
