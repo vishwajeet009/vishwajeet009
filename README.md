@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vishwajeet009
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning data structures and web development
-- 💞️ I’m looking to collaborate on DS-Algo and WEBD related stuffs
+- 👀 I’m interested in learning, and coding
 - 📫 How to reach me ...2019ucs0088@iitjammu.ac.in
 
 <!---
