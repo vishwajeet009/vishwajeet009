@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishwajeet009
-- 👀 I’m interested in learning, and coding
+- 👀 I’m interested in learning and coding
 - 📫 How to reach me ...2019ucs0088@iitjammu.ac.in
 
 <!---
